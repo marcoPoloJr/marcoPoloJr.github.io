@@ -1,7 +1,14 @@
 body{
     font-family: monospace;    
+    background-image: url(xK.gif);
 }
-h1{
+h1,h2{
     color: #9F54B5;
 }
 
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
