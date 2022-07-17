@@ -2,7 +2,15 @@ body{
     font-family: monospace;    
     background-color: black;
 }
-h1,h2{
+.meuNome{
+    color: #9F54B5;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+h2{
     color: #9F54B5;
     font-size: 30px;
 }
@@ -23,6 +31,7 @@ p, li{
 .minhaFoto{
     float: left;
     height: 555px;
+    border-radius: 60%;
 }
 
 .imageContainer{
