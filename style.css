@@ -4,6 +4,7 @@ body{
 }
 h1,h2{
     color: #9F54B5;
+    font-size: 30px;
 }
 
 p{
@@ -11,4 +12,10 @@ p{
 }
 ul{
     color: white;
+}
+.Capshabilidade{
+    font-size: 20px;
+}
+p, li{
+    font-size: 15px;
 }
