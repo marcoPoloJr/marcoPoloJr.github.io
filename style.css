@@ -20,6 +20,15 @@ p, li{
     font-size: 15px;
 }
 
+.minhaFoto{
+    float: left;
+    height: 555px;
+}
+
+.imageContainer{
+height: 550px;    
+}
+
 div{
     border: 2px solid blueviolet
 }
