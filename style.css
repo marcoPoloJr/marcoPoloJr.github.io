@@ -1,6 +1,6 @@
 body{
     font-family: monospace;    
-    background-image: url(xK.gif);
+    background-color: black;
 }
 h1,h2{
     color: #9F54B5;
@@ -18,4 +18,8 @@ ul{
 }
 p, li{
     font-size: 15px;
+}
+
+div{
+    border: 2px solid blueviolet
 }
